@@ -1,6 +1,7 @@
-# Hi there 👋
-
+# Hi there, I'm Jonathan 👋
 ![](images/name.gif)
+
+I'm a software engineer who is passionate about bringing technology to underprivileged communities. My expertise include HTML, CSS, JavaScript, React, Node.js, and MongoDB. Contact me if you want to work together or just have a chat. Let's build a better world one line of a code at time.
 
 <!--
 **jon-rodriguez/jon-rodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
