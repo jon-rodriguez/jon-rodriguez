@@ -2,11 +2,15 @@
 ![](images/name.gif)
 </div>
 
+<br/>  
+
 - 💻 I’m currently working as a Software Engineer at 100Devs  
 - 👯 I’m looking to collaborate on projects that help underpriviliged communities
 - 💬 Ask me about anything!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I grew up playing soccer
+
+<br/>  
 
  ## My Skill Set  
 <div align="center">
