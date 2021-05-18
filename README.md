@@ -1,13 +1,15 @@
 # <div align="center">Hi, I'm Jonathan 👋
-</div>
 ![](images/name.gif)
+</div>
 
+- 💻 I’m currently working as a Software Engineer at 100Devs  
+- 👯 I’m looking to collaborate on projects that help underpriviliged communities
+- 💬 Ask me about anything!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I grew up playing soccer
 
-### I'm a software engineer who is passionate about bringing technology to underprivileged communities. My expertise include HTML, CSS, JavaScript, React, Node.js, and MongoDB. Contact me if you want to work together or just have a chat. Let's build a better world one line of code at a time
-  
  ## My Skill Set  
-<table><tr><td valign="top">
-<div align="center">  
+<div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
@@ -16,7 +18,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
-  
+
+
 <br/>  
 
 ## Connect with me  
@@ -32,8 +35,12 @@
 </a>
 </div>  
   
-
 <br/>
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jon-rodriguez&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+
 <!--
 **jon-rodriguez/jon-rodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
