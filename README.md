@@ -1,6 +1,7 @@
 # <div align="center">Hi, I'm Jonathan 👋
-![](images/name.gif)
 </div>
+![](images/name.gif)
+
 
 ### I'm a software engineer who is passionate about bringing technology to underprivileged communities. My expertise include HTML, CSS, JavaScript, React, Node.js, and MongoDB. Contact me if you want to work together or just have a chat. Let's build a better world one line of code at a time
   
